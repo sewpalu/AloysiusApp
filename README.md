@@ -1,2 +1,2 @@
 # Gamesistant
-Assistant app for playing (physical) games with friends (in person).
+Assistant app for playing (in person) games with friends.
